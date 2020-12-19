@@ -53,19 +53,14 @@ Insertamos nuevo pez
 Lo mostramos
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG)
 
+Actualizamos el nombre de un pez y vemos que se cambia
 
-Añadimos nuevo campo en la base de datos
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
 
 
 Borramos un pez y vemos que ya no sale
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
-
-
-Actualizamos el nombre de un pez y vemos que se cambia
-
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
 
 
 Publicamos en Azure desde Visual Studio
@@ -78,6 +73,9 @@ Vemos el resultado en el portal de Azure
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG)
 
+
+Añadimos nuevo campo en la base de datos
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
 
 
 **Ejercicio 2:** cargar una imagen en Azure Blob Storage
