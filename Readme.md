@@ -114,6 +114,7 @@ añadimos una foto al storage
 
 
 
+Ahora las fotos als coge del local si están y si no del Blob Storage
 
 
 
