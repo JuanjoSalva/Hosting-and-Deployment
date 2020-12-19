@@ -69,13 +69,16 @@ Publicamos en Azure desde Visual Studio
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
 
 
+Añadimos nuevo campo en la base de datos y restauramos la bbdd
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
+
 Vemos el resultado en el portal de Azure
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG)
 
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
-Añadimos nuevo campo en la base de datos
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
+
 
 
 **Ejercicio 2:** cargar una imagen en Azure Blob Storage
@@ -99,7 +102,6 @@ Las principales tareas de este ejercicio son las siguientes:
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG)
 
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_azure.PNG)
 
