@@ -8,57 +8,103 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 2. **Fecha:** 17/12/2020
 3. **Resumen del Ejercicio:** 
 
-Laboratorio: Implementación de API web
+**Laboratorio: Implementación de API web**
 
-Se le ha pedido que cree una aplicación de restaurante basada en la web para los clientes de su organización. Para hacer esto, necesita crear una página que muestre todas las sucursales de restaurantes, permitir a los usuarios solicitar una reserva para una sucursal de restaurante seleccionada, agregar una página de anuncios deseados y permitir enviar una solicitud para un trabajo seleccionado.
+En este laboratorio, los estudiantes primero implementarán una aplicación web en Microsoft Azure. La aplicación gestionará un acuario. Almacenará y mostrará detalles de varios peces y una imagen para cada pez. El usuario puede agregar / editar / eliminar un pez. En la segunda parte del laboratorio, los estudiantes crearán un contenedor de almacenamiento de Azure. Luego, modificarán la aplicación para almacenar la imagen del pez en el contenedor de almacenamiento de Azure en lugar de almacenarla localmente.
 
-Creará una aplicación de API web del lado del servidor y una aplicación ASP.NET Core MVC del lado del cliente. En la aplicación del lado del cliente, llamará a las acciones de la API web mediante HttpClient y jQuery.
-
-Objetivos
+**Objetivos**
 Después de completar esta práctica de laboratorio, podrá:
 
-- Agregue acciones a una aplicación de API web.
+- Cree un servicio de aplicaciones en Microsoft Azure.
 
-- Llame a las acciones de la API web mediante HttpClient.
+- Implemente una aplicación en Azure.
 
-- Llame a las acciones de la API web mediante jQuery.
+- Trabaje con Azure SQL Database.
 
-**Ejercicio 1:**
-agregar acciones y llamarlas mediante Microsoft Edge
+- Cree un contenedor de almacenamiento en Azure.
 
-En este ejercicio, primero agregará un controlador y una acción a una aplicación Web API. Luego, ejecutará la aplicación y verá el resultado con Microsoft Edge. Después de eso, agregará un controlador y una acción que obtiene un parámetro. Luego, ejecutará la aplicación y verá el resultado con Microsoft Edge. Finalmente, agregará una acción Publicar a la aplicación Web API.
+- Cargue imágenes en contenedores de almacenamiento desde una aplicación.
+
+
+
+**Ejercicio 1:** implementación de una aplicación web en Microsoft Azure
+Guión
+En este ejercicio, primero creará y ejecutará una aplicación web simple de forma local. Para ello, ejecutará migraciones para su base de datos local. Luego, creará un servicio de aplicaciones de Azure y una base de datos SQL de Azure en Azure y configurará su aplicación para usar la base de datos SQL de Azure. Completará la base de datos utilizando Migrate. Finalmente, implementará su aplicación en Azure.
 
 Las principales tareas de este ejercicio son las siguientes:
 
-1.Agregar un controlador y una acción a una aplicación de API web
+- Explore y ejecute la aplicación localmente.
 
-2.Ejecutar la aplicación
+- Cree una nueva aplicación web en Azure.
 
-3.Agrega un controlador y una acción que obtiene un parámetro
+- Prepare la aplicación para su implementación.
 
-4.Ejecutar la aplicación
+- Implemente la aplicación.
 
-5.Agregar una acción Publicar a una aplicación API web
+- Actualice la aplicación e impleméntela en Azure.
+
+Esta es la página:
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/index.PNG)
+
+Insertamos nuevo pez
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertar.PNG)
+
+Lo mostramos
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG)
 
 
-Para la publicación:
-En Azure.hemos crado un recurso nuevo. Hemos puesto en la búsqueda app service + sql.
-Esto nos abre la pantalla para crear plan app servicee + Service + Grupo Recurso + base de datos + servidor ..., todo
-Una vez creado nos vamos al Visual Studio y publicamos. Cuando esté publicado
+Añadimos nuevo campo en la base de datos
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
 
+Publicamos en Azure desde Visual Studio
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visualstudio_publish.PNG)
 
-editamos y cambiamos 
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
+
+
+Borramos un pez
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
+
+Vemos que ya no sale
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrado.PNG)
+
+
+Actualizamos un pez
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
+
+
+
+
+Vemos el resultado en el portal de Azure
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG)
+
+
+
+**Ejercicio 2:** cargar una imagen en Azure Blob Storage
+Guión
+En este ejercicio, creará una cuenta de almacenamiento de Azure en Azure y un contenedor en la cuenta de almacenamiento. Luego, modificará la aplicación web que creó para comenzar a almacenar las imágenes en Azure Blob Storage. Las imágenes también se mostrarán desde el almacenamiento utilizando la URL generada para cada imagen. Además, cambiará el código para cargar imágenes al contenedor. Finalmente, implementará su aplicación en Azure.
+
+Las principales tareas de este ejercicio son las siguientes:
+
+- Crear una cuenta de almacenamiento de blobs
+
+- Prepare la aplicación para trabajar con Azure Storage.
+
+- Escribe el código para subir una imagen.
+
+- Implementar y ejecutar la aplicación en Azure
+
+
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aure_a%C3%B1adiendo.PNG)
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
-
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
@@ -66,66 +112,18 @@ editamos y cambiamos
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_web.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrar.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrado.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/index.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertar.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
+
+
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/pez.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
-
-
-**Ejercicio 2:**
-llamar a una API web mediante código del lado del servidor
-
-En este ejercicio, llamará a la API web que desarrolló en el ejercicio anterior utilizando la clase HttpClient. Para hacer esto, primero registrará el servicio IHttpClientFactory en el archivo Startup.cs. Luego, creará un controlador MVC y usará la clase HttpClient para llamar a una acción Get en la API web. Después de eso, creará otro controlador MVC y usará la clase HttpClient para llamar a una acción de publicación en la API web. Finalmente, agregará una acción al controlador MVC en la que usará la clase HttpClient para llamar a una acción Get en la API web que obtiene un parámetro.
-
-Las principales tareas de este ejercicio son las siguientes:
-
-1.Llamar a un método Get de API web
-
-2.Ejecutar la aplicación
-
-3.Llamar a un método de publicación de API web
-
-4.Llamar a un método Get de API web que obtiene un parámetro
-
-5.Ejecutar la aplicación
-
-
-![subir_estos](C:\Users\Juanjo\Desktop\subir_estos.PNG)
-![subir_estos](C:\Users\Juanjo\Desktop\subir_estos.PNG)
 
 
 
 
-**Ejercicio 3:**
-llamar a una API web mediante jQuery
 
-En este ejercicio, llamará a una API web mediante jQuery. Primero creará un controlador MVC y usará jQuery para llamar a una acción Get en la API web. Después de eso, creará otro controlador MVC y usará jQuery para llamar a una acción Publicar en la API web.
-
-Las principales tareas de este ejercicio son las siguientes:
-
-1.Llamar a un método Get de API web mediante jQuery
-
-2.Ejecutar la aplicación
-
-3.Llamar a un método Get de API web mediante HttpClient
-
-4.Llamar a un método de publicación de API web mediante jQuery
-
-5.Ejecutar la aplicación
-
-![subir_estos](C:\Users\Juanjo\Desktop\subir_estos.PNG)
-![subir_estos](C:\Users\Juanjo\Desktop\subir_estos.PNG)
-
-
-Hemos cambiado código para que coja las imagenes de local y si no hay pues del BlobStorage
