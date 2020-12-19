@@ -74,8 +74,6 @@ Añadimos nuevo campo en la base de datos y restauramos la bbdd
 
 Vemos el resultado en el portal de Azure
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG)
-
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
 
