@@ -57,26 +57,21 @@ Lo mostramos
 Añadimos nuevo campo en la base de datos
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
 
-Publicamos en Azure desde Visual Studio
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visualstudio_publish.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
-
-
-Borramos un pez
+Borramos un pez y vemos que ya no sale
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
 
-Vemos que ya no sale
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrado.PNG)
-
-
-Actualizamos un pez
+Actualizamos el nombre de un pez y vemos que se cambia
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
 
 
+Publicamos en Azure desde Visual Studio
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visualstudio_publish.PNG)
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
 
 
 Vemos el resultado en el portal de Azure
