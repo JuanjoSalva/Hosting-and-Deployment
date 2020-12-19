@@ -94,13 +94,12 @@ Las principales tareas de este ejercicio son las siguientes:
 - Implementar y ejecutar la aplicación en Azure
 
 
-
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aure_a%C3%B1adiendo.PNG)
+CReamos un recurso nuevo: blob storage
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG)
 
 
-
+añadimos una foto al storage
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_azure.PNG)
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_web.PNG)
@@ -109,11 +108,6 @@ Las principales tareas de este ejercicio son las siguientes:
 
 
 
-
-
-
-
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/pez.PNG)
 
 
 
