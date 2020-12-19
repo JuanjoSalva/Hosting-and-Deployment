@@ -63,6 +63,10 @@ Borramos un pez y vemos que ya no sale
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
 
 
+ Creamos en el Portal Azure un recurso: Web app + Sql
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/WebAppBBDD.PNG)
+
+
 Publicamos en Azure desde Visual Studio
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visualstudio_publish.PNG)
 
@@ -76,6 +80,10 @@ Vemos el resultado en el portal de Azure
 
 ![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
+
+Damos permisos a nuestra ip:
+
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/security.PNG)
 
 
 
