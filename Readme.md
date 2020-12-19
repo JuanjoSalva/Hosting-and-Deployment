@@ -50,37 +50,37 @@ Una vez creado nos vamos al Visual Studio y publicamos. Cuando esté publicado
 
 editamos y cambiamos 
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aplicacionenazure.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aure_a%C3%B1adiendo.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/aure_a%C3%B1adiendo.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_azure.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_azure.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_web.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_web.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrar.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrar.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrado.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/borrado.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/index.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/index.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertar.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertar.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/pez.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/pez.PNG)
 
-https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG
+![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
 
 
 **Ejercicio 2:**
